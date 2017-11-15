@@ -62,12 +62,5 @@ typings/
 
 .gitignore
 .idea/
-app.js
-bigDataSet.json
-bin/
+
 package-lock.json
-package.json
-public/
-routes/
-views/
-writeToFile.js
